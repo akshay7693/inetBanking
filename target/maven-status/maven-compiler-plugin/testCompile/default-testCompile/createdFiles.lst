@@ -1,0 +1,10 @@
+testRunner\TC_AddNewCustomer_003.class
+pageObjects\LoginPage.class
+utilities\XLUtils.class
+testRunner\BaseTest.class
+pageObjects\HomePage.class
+testRunner\TC_LoginDDT_002.class
+utilities\Reporting.class
+pageObjects\AddCustomerPage.class
+testRunner\TC_LoginTest_001.class
+utilities\ReadConfig.class
